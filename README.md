@@ -1,6 +1,19 @@
-<p>
-  <h1 align="center"><b>Hey, I'm Angel ⭐</b></h1>
-</p>
+<p><h1 align="center"><b>Hey, I'm Angel ⭐</b></h1></p>
+  
+<p><h3 align="center"><b>Developer. Sun lover. Goth.</b></h3></p>
+
+
+<img align="right" src="https://github.com/AngelCrawford/profilecard-public/raw/gh-pages/images/screenshot.jpg" width="50%">
+
+* Sun and heat lover | over 25°C | 77 °F
+* 34 years old
+* Web developer | ❤️ my work
+  * PHP, Ruby, CSS (Sass), HTML, JavaScript
+  * Rails, WordPress, Hugo, Grav
+  * Photoshop, Gimp, Krita, Filmora 9
+* Addicted to music, series and movies
+
+---
 
 <p align="center">
   <a href="https://angel-crawford.de">
