@@ -18,6 +18,7 @@
   <a href="https://codepen.io/angel_crawford">
     <img src="https://img.shields.io/badge/codepen-%23333333.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
   </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AngelCrawford&style=for-the-badge&color=blue" alt=""/>
 </p>
 
 <img align="right" src="https://github.com/AngelCrawford/profilecard-public/raw/gh-pages/images/screenshot.jpg" width="40%">
@@ -29,3 +30,19 @@
   * Rails, WordPress, Hugo, Grav
   * Photoshop, Gimp, Krita, Filmora 9
 * Addicted to music, series and movies
+
+<p><h1 align="center">&nbsp</h1></p>
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" title="Gimp" alt="Gimp" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40" />&nbsp;
+  <img src="https://gohugo.io/favicon-32x32.png" title="Hugo CMS" alt="Hugo CMS" width="40" height="40" />&nbsp;
+</div>
