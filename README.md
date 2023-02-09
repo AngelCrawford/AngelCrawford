@@ -24,12 +24,12 @@
 <img align="right" src="https://github.com/AngelCrawford/profilecard-public/raw/gh-pages/images/screenshot.jpg" width="40%">
 
 * Sun and heat lover | over 25°C | 77 °F
-* 35 years old
 * Web developer | ❤️ my work
-  * PHP, Ruby, CSS (Sass), HTML, JavaScript
-  * Rails, WordPress, Hugo, Grav
-  * Photoshop, Gimp, Krita, Filmora 9
+  * PHP, CSS (Sass), HTML, JavaScript, WordPress, Hugo
+  * Photoshop, Affinity Photo, Krita, Filmora 9
 * Addicted to music, series and movies
+  * Genres: Action, Anime, Horror, Sci-Fi, Fantasy, Thriller …
+  * Currently looking through Korean series, subtitles ftw
 
 <p><h1 align="center">&nbsp</h1></p>
 
