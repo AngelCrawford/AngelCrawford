@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=AngelCrawford&style=for-the-badge&color=blue" alt=""/>
 </p>
 
-<img align="right" src="https://github.com/AngelCrawford/profilecard-public/raw/gh-pages/images/screenshot.jpg" width="40%">
+<img align="right" src="https://raw.githubusercontent.com/AngelCrawford/profilecard-public/gh-pages/images/social.jpg" width="40%">
 
 * Sun and heat lover | over 25°C | 77 °F
 * Web developer | ❤️ my work
