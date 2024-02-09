@@ -12,8 +12,6 @@
   <a href="https://www.instagram.com/angel_crawford_ftw/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
-  <a href="https://twitter.com/crawford_ftw">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram" />
   </a>&nbsp;
   <a href="https://codepen.io/angel_crawford">
     <img src="https://img.shields.io/badge/codepen-%23333333.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
@@ -27,9 +25,11 @@
 * Web developer | ❤️ my work
   * PHP, CSS (Sass), HTML, JavaScript, WordPress, Hugo
   * Photoshop, Affinity Photo, Krita, Filmora 9
+* Cosplayer | a relatively new love
 * Addicted to music, series and movies
   * Genres: Action, Anime, Horror, Sci-Fi, Fantasy, Thriller …
-  * Currently looking through Korean series, subtitles ftw
+  * At the moment it’s trash movies. Bad CGI and/or bad scripts? <br />Even hotter!
+* Cake, 🐄 or gold-colored things | You can definitely <br /> bribe me with that
 
 <p><h1 align="center">&nbsp</h1></p>
 
